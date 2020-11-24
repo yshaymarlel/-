@@ -1,0 +1,12 @@
+p{
+    color: cyan;
+}
+.logo{
+    color: fuchsia;
+}
+.pdf {
+    color: goldenrod;
+    background-color: red;
+    display: inline-block;
+    text-align: center;
+}
