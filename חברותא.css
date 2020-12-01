@@ -12,15 +12,21 @@ background-color: lavender;
 }
 ul.line{display: flex;}li a{
  display: inline-block;
- padding: 50px;
- font-weight: bold;
- font-size: 20px;
+ padding: 40px;
+ width: auto;
+ font-size: 10px;
  border-top: 2px solid;
  border-bottom: 2px solid;
  margin: 20px;
- padding: 5px;
  text-decoration: none;
  color: red;
+ width: 60px;
+ text-align: center;
+ 
+}
+.er {
+
+text-align: left;
 }
 ul.line{display: flex;}li a:hover{
     color: blue;
