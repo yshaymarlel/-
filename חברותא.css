@@ -1,0 +1,30 @@
+body {
+    color:black;
+background-color: lavender;
+}
+.logo {
+    background-color:blue;
+    display: inline block;
+    width: 80px;
+    height: 40px;
+    
+
+}
+ul.line{display: flex;}li a{
+ display: inline-block;
+ padding: 50px;
+ font-weight: bold;
+ font-size: 20px;
+ border-top: 2px solid;
+ border-bottom: 2px solid;
+ margin: 20px;
+ padding: 5px;
+ text-decoration: none;
+ color: red;
+}
+ul.line{display: flex;}li a:hover{
+    color: blue;
+}
+li {
+    list-style-type: none;
+}
