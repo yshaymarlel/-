@@ -7,8 +7,11 @@ background-color: lavender;
     display: inline block;
     width: 80px;
     height: 40px;
+}
+.n12 {
+    display: inline-block;
+    display: inline;
     
-
 }
 ul.line{display: flex;}li a{
  display: inline-block;
@@ -19,9 +22,9 @@ ul.line{display: flex;}li a{
  border-bottom: 2px solid;
  margin: 20px;
  text-decoration: none;
- color: red;
  width: 60px;
  text-align: center;
+ background-color: darkgoldenrod;
  
 }
 .er {
